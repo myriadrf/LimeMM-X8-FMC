@@ -1,0 +1,3 @@
+[submodule "hardware/LimeMM-X8-FMC_1v0/LimeMicroAltiumLib"]
+	path = hardware/LimeMM-X8-FMC_1v0/LimeMicroAltiumLib
+	url = https://github.com/myriadrf/LimeMicroAltiumLib
