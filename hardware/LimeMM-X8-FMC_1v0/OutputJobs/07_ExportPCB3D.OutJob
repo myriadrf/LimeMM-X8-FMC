@@ -49,7 +49,7 @@ Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=ExportPDF3DSetting|Version=110|Format=0|Flags=8158|Scheme=0|ViewColorR0=255|ViewColorG0=255|ViewColorB0=255|ViewLignt0=9|ViewColorR1=255|ViewColorG1=255|ViewColorB1=255|ViewLignt1=9|ViewColorR2=255|ViewColorG2=255|ViewColorB2=255|ViewLignt2=9|ViewColorR3=255|ViewColorG3=255|ViewColorB3=255|ViewLignt3=9
 
 [PublishSettings]
-OutputFilePath2=E:\Saniok\Lime Micro\Lime PCBs\LimeKEY_RPCM_1v1\Altium Designer design files\Project Outputs for LimeKEY-RPCM_1v1\LimeKEY-RPCM_1v0_PCB3D.PDF
+OutputFilePath2=E:\Saniok\Lime Micro\Lime PCBs\LimeMM-X8-FMC\LimeMM-X8-FMC\hardware\LimeMM-X8-FMC_1v0\Project Outputs for LimeKEY-RPCM_1v1\LimeKEY-RPCM_1v1_PCB3D.PDF
 ReleaseManaged2=1
 OutputBasePath2=Project Outputs for LimeKEY-RPCM_1v1
 OutputPathMedia2=
@@ -57,7 +57,7 @@ OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=LimeKEY-RPCM_1v1_PCB3D.PDF
+OutputFileName2=LimeMM-X8-FMC_1v0_PCB3D.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
@@ -128,7 +128,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=E:\Saniok\Lime Micro\Lime PCBs\LimeKEY_RPCM_1v1\Altium Designer design files\Project Outputs for LimeKEY-RPCM_1v1\LimeKEY-RPCM_1v0_PCB3D.PDF
+RelativeOutputPath2=E:\Saniok\Lime Micro\Lime PCBs\LimeMM-X8-FMC\LimeMM-X8-FMC\hardware\LimeMM-X8-FMC_1v0\Project Outputs for LimeKEY-RPCM_1v1\LimeKEY-RPCM_1v1_PCB3D.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
