@@ -62,9 +62,9 @@ PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration2_Name1=OutputConfigurationParameter1
 Configuration2_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType3=Schematic Print
-OutputName3=02_Power_RFFE_diag.SchDoc
+OutputName3=02_Power_diag.SchDoc
 OutputCategory3=Documentation
-OutputDocumentPath3=02_Power_RFFE_diag.SchDoc
+OutputDocumentPath3=02_Power_diag.SchDoc
 OutputVariantName3=
 OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
@@ -90,9 +90,9 @@ PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration4_Name1=OutputConfigurationParameter1
 Configuration4_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType5=Schematic Print
-OutputName5=04_USB_diag.SchDoc
+OutputName5=04_FMC_HPC0.SchDoc
 OutputCategory5=Documentation
-OutputDocumentPath5=04_USB_diag.SchDoc
+OutputDocumentPath5=04_FMC_HPC0.SchDoc
 OutputVariantName5=
 OutputEnabled5=0
 OutputEnabled5_OutputMedium1=0
@@ -104,9 +104,9 @@ PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration5_Name1=OutputConfigurationParameter1
 Configuration5_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType6=Schematic Print
-OutputName6=05_RPi_mPCIe.SchDoc
+OutputName6=05_FMC_HPC1.SchDoc
 OutputCategory6=Documentation
-OutputDocumentPath6=05_RPi_mPCIe.SchDoc
+OutputDocumentPath6=05_FMC_HPC1.SchDoc
 OutputVariantName6=
 OutputEnabled6=0
 OutputEnabled6_OutputMedium1=0
@@ -118,9 +118,9 @@ PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration6_Name1=OutputConfigurationParameter1
 Configuration6_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType7=Schematic Print
-OutputName7=06_Misc_1.SchDoc
+OutputName7=06_mPCIe_1-4.SchDoc
 OutputCategory7=Documentation
-OutputDocumentPath7=06_Misc_1.SchDoc
+OutputDocumentPath7=06_mPCIe_1-4.SchDoc
 OutputVariantName7=
 OutputEnabled7=0
 OutputEnabled7_OutputMedium1=0
@@ -132,9 +132,9 @@ PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration7_Name1=OutputConfigurationParameter1
 Configuration7_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType8=Schematic Print
-OutputName8=07_Misc_2.SchDoc
+OutputName8=07_mPCIe_4-8.SchDoc
 OutputCategory8=Documentation
-OutputDocumentPath8=07_Misc_2.SchDoc
+OutputDocumentPath8=07_mPCIe_4-8.SchDoc
 OutputVariantName8=
 OutputEnabled8=0
 OutputEnabled8_OutputMedium1=0
@@ -146,9 +146,9 @@ PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration8_Name1=OutputConfigurationParameter1
 Configuration8_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType9=Schematic Print
-OutputName9=08_USB.SchDoc
+OutputName9=08_Level_conv_misc.SchDoc
 OutputCategory9=Documentation
-OutputDocumentPath9=08_USB.SchDoc
+OutputDocumentPath9=08_Level_conv_misc.SchDoc
 OutputVariantName9=
 OutputEnabled9=0
 OutputEnabled9_OutputMedium1=0
@@ -160,9 +160,9 @@ PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration9_Name1=OutputConfigurationParameter1
 Configuration9_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType10=Schematic Print
-OutputName10=09_Clock.SchDoc
+OutputName10=09_Clock_RF_ref.SchDoc
 OutputCategory10=Documentation
-OutputDocumentPath10=09_Clock.SchDoc
+OutputDocumentPath10=09_Clock_RF_ref.SchDoc
 OutputVariantName10=
 OutputEnabled10=0
 OutputEnabled10_OutputMedium1=0
@@ -174,9 +174,9 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 Configuration10_Name1=OutputConfigurationParameter1
 Configuration10_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType11=Schematic Print
-OutputName11=10_RFFE.SchDoc
+OutputName11=10_Clock_data_ref.SchDoc
 OutputCategory11=Documentation
-OutputDocumentPath11=10_RFFE.SchDoc
+OutputDocumentPath11=10_Clock_data_ref.SchDoc
 OutputVariantName11=
 OutputEnabled11=0
 OutputEnabled11_OutputMedium1=0
@@ -188,9 +188,9 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 Configuration11_Name1=OutputConfigurationParameter1
 Configuration11_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType12=Schematic Print
-OutputName12=11_PoE_USB_PD.SchDoc
+OutputName12=11_Power.SchDoc
 OutputCategory12=Documentation
-OutputDocumentPath12=11_PoE_USB_PD.SchDoc
+OutputDocumentPath12=11_Power.SchDoc
 OutputVariantName12=
 OutputEnabled12=0
 OutputEnabled12_OutputMedium1=0
@@ -201,25 +201,11 @@ OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.04|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A3|PaperIndex=8
 Configuration12_Name1=OutputConfigurationParameter1
 Configuration12_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
-OutputType13=Schematic Print
-OutputName13=12_Power.SchDoc
-OutputCategory13=Documentation
-OutputDocumentPath13=12_Power.SchDoc
-OutputVariantName13=
-OutputEnabled13=0
-OutputEnabled13_OutputMedium1=0
-OutputEnabled13_OutputMedium2=0
-OutputEnabled13_OutputMedium3=0
-OutputEnabled13_OutputMedium4=0
-OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.04|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A3|PaperIndex=8
-Configuration13_Name1=OutputConfigurationParameter1
-Configuration13_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 
 [PublishSettings]
 OutputFilePath2=E:\Saniok\Lime Micro\Lime PCBs\LimeMM-X8-FMC\LimeMM-X8-FMC\hardware\LimeMM-X8-FMC_1v0\Project Outputs for LimeKEY-RPCM_1v1\LimeMM-X8-FMC_1v0_Schematic_r0.PDF
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for LimeKEY-RPCM_1v1
+OutputBasePath2=Project Outputs for LimeMM-X8-FMC_1v0
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -246,7 +232,7 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for LimeKEY-RPCM_1v1
+OutputBasePath3=Project Outputs for LimeMM-X8-FMC_1v0
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -259,7 +245,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for LimeKEY-RPCM_1v1
+OutputBasePath4=Project Outputs for LimeMM-X8-FMC_1v0
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]

@@ -44,7 +44,7 @@ OutputEnabled1_OutputMedium2=1
 OutputEnabled1_OutputMedium3=0
 OutputEnabled1_OutputMedium4=0
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.55|XCorrection=1.00|YCorrection=1.00|PrintKind=2|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.97|XCorrection=1.00|YCorrection=1.00|PrintKind=2|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerY=0|PrintAreaLowerLeftCornerX=0|PrintAreaUpperRightCornerY=0|PrintAreaUpperRightCornerX=0|Record=PcbPrintView
 Configuration1_Name2=OutputConfigurationParameter2
@@ -67,7 +67,7 @@ OutputEnabled2_OutputMedium2=2
 OutputEnabled2_OutputMedium3=0
 OutputEnabled2_OutputMedium4=0
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.55|XCorrection=1.00|YCorrection=1.00|PrintKind=2|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.97|XCorrection=1.00|YCorrection=1.00|PrintKind=2|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration2_Name1=OutputConfigurationParameter1
 Configuration2_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerY=0|PrintAreaLowerLeftCornerX=0|PrintAreaUpperRightCornerY=0|PrintAreaUpperRightCornerX=0|Record=PcbPrintView
 Configuration2_Name2=OutputConfigurationParameter2
@@ -92,7 +92,7 @@ OutputEnabled3_OutputMedium4=0
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=2|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=A4|PaperIndex=9
 Configuration3_Name1=OutputConfigurationParameter1
-Configuration3_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerY=0|PrintAreaLowerLeftCornerX=0|PrintAreaUpperRightCornerY=0|PrintAreaUpperRightCornerX=0|Record=PcbPrintView
+Configuration3_Item1=DesignatorDisplayMode=Physical|PrintArea=SpecificArea|PrintAreaLowerLeftCornerY=282883504|PrintAreaLowerLeftCornerX=149506378|PrintAreaUpperRightCornerY=327076417|PrintAreaUpperRightCornerX=256770157|Record=PcbPrintView
 Configuration3_Name2=OutputConfigurationParameter2
 Configuration3_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=TopAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=True|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
 Configuration3_Name3=OutputConfigurationParameter3
@@ -115,7 +115,7 @@ OutputEnabled4_OutputMedium4=0
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=2|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=A4|PaperIndex=9
 Configuration4_Name1=OutputConfigurationParameter1
-Configuration4_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerY=0|PrintAreaLowerLeftCornerX=0|PrintAreaUpperRightCornerY=0|PrintAreaUpperRightCornerX=0|Record=PcbPrintView
+Configuration4_Item1=DesignatorDisplayMode=Physical|PrintArea=SpecificArea|PrintAreaLowerLeftCornerY=282883504|PrintAreaLowerLeftCornerX=149683543|PrintAreaUpperRightCornerY=326987835|PrintAreaUpperRightCornerX=256681575|Record=PcbPrintView
 Configuration4_Name2=OutputConfigurationParameter2
 Configuration4_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=True|Name=BottomAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=True|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
 Configuration4_Name3=OutputConfigurationParameter3
@@ -129,7 +129,7 @@ PcbPrintPreferences4=
 [PublishSettings]
 OutputFilePath2=E:\Saniok\Lime Micro\Lime PCBs\LimeMM-X8-FMC\LimeMM-X8-FMC\hardware\LimeMM-X8-FMC_1v0\Project Outputs for LimeKEY-RPCM_1v1\LimeKEY-RPCM_1v1_PCB_Drawings_r0.PDF
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for LimeKEY-RPCM_1v1
+OutputBasePath2=Project Outputs for LimeMM-X8-FMC_1v0
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -156,7 +156,7 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for LimeKEY-RPCM_1v1
+OutputBasePath3=Project Outputs for LimeMM-X8-FMC_1v0
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -169,7 +169,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for LimeKEY-RPCM_1v1
+OutputBasePath4=Project Outputs for LimeMM-X8-FMC_1v0
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
