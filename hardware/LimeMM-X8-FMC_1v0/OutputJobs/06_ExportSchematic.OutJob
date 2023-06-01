@@ -132,7 +132,7 @@ PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration7_Name1=OutputConfigurationParameter1
 Configuration7_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType8=Schematic Print
-OutputName8=07_mPCIe_4-8.SchDoc
+OutputName8=07_mPCIe_5-8.SchDoc
 OutputCategory8=Documentation
 OutputDocumentPath8=07_mPCIe_5-8.SchDoc
 OutputVariantName8=
